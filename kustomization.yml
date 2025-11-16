@@ -10,8 +10,8 @@ resources:
 images:
   - name: 858431073453.dkr.ecr.us-east-1.amazonaws.com/workshop-devops/prod/backend
     newName: 858431073453.dkr.ecr.us-east-1.amazonaws.com/workshop-devops/prod/backend
-    newTag: v1.0
+    newTag: v1
 
   - name: 858431073453.dkr.ecr.us-east-1.amazonaws.com/workshop-devops/prod/frontend
     newName: 858431073453.dkr.ecr.us-east-1.amazonaws.com/workshop-devops/prod/frontend
-    newTag: v1.0
+    newTag: v1
