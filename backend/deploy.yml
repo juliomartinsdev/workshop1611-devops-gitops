@@ -15,7 +15,7 @@ spec:
         app: backend
     spec:
       containers:
-      - name: nginx
+      - name: backend
         image: 858431073453.dkr.ecr.us-east-1.amazonaws.com/workshop-devops/prod/backend:v1
         ports:
         - containerPort: 80
